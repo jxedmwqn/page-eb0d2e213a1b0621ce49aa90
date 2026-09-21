@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ab1846e509fe86a8660b5740",
+  "owner": "jxedmwqn",
+  "repo": "page-eb0d2e213a1b0621ce49aa90",
+  "title": "OOC网络加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eb0d2e213a1b0621ce49aa90",
+      "a": "OOC网络加速",
+      "b": "2027官方最新地址导航",
+      "entity": "OOC网络加速",
+      "brand": "OOC网络加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "88ab0c12b678d2d48011284b3147c81ba38e3db5dbc4520d9728a93abea6aafb",
+      "content": {
+        "primary_entity": "OOC网络加速",
+        "keyword1": "OOC网络加速",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选好套餐再按客户端文档导入订阅，就能开始使用。",
+          "AI_CLOSING_TITLE": "开启 OOC 网络加速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付与年付并行。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台并带 IPLC 专线游戏加速优化，团队版每月 1000GB 支持 20 台并附企业定制路由。选套餐时先看设备数量与月流量需求，再决定订阅周期。",
+          "AI_FEATURES_INTRO": "从设备数量、流量大小与订阅周期三个角度挑选合适的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择关键点",
+          "AI_FEATURE_TEXT_1": "按需计算设备数量，单人 3 台以内可选基础版，多人共享建议旗舰版起步。",
+          "AI_FEATURE_TEXT_2": "按流量用量对比，基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB。",
+          "AI_FEATURE_TEXT_3": "按年付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "月流量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成服务选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "OOC网络加速面向需要稳定跨境连接的用户，提供基础版、旗舰版与团队版三档套餐，覆盖不同设备数量与流量需求。订阅后按客户端文档导入配置即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "稳定连接，多设备可用",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "流量按需匹配 100GB 起",
+          "AI_HIGHLIGHT_3": "年付方案更省费用",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版平衡流量与设备数量，团队版满足多人共享与高流量需求，可对比后按年付或月付下单。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量与预算，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "核对所选套餐支持的设备数量、流量额度与订阅周期是否符合日常使用。",
+          "AI_STEP_TEXT_3": "按照所用客户端的配置文档导入订阅，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "OOC网络加速套餐导览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "OOC网络加速有哪些套餐可选？",
+          "AI_FAQ_ANSWER_1": "基础版15元每月，含100GB流量与3台设备；旗舰版35元每月，含300GB流量与5台设备；团队版85元每月，含1000GB流量与20台设备。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付150元、旗舰版年付350元、团队版年付850元，相当于按十个月计费，比逐月购买更划算。",
+          "AI_FAQ_QUESTION_3": "一个订阅可以几台设备同时使用？",
+          "AI_FAQ_ANSWER_3": "按套餐标注：基础版3台、旗舰版5台、团队版20台同时在线。超出设备数需升级套餐或另开订阅。",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅导入功能，粘贴订阅链接并更新节点列表，随后选择节点连接。具体路径参见客户端自带文档。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版线路有什么区别？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供IPLC专线游戏加速优化与全节点原生流媒体解锁；团队版在此基础上提供VIP专属高带宽节点与定制路由支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bdqhk.cn",
+    "host": "bdqhk.cn"
+  },
+  "file_hashes": {
+    "index.html": "61ea94558d69ba322a85468b8c8ea71e5f0ac71e1a25c07b89a69c3ffc6e27ec",
+    "sitemap.xml": "03070adc91d6b30d26e439bcd40805ad7b529a7e639d04587ea72742cbfc0fd0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5160682c5c7ab93e8206ade5582ac61013e0a3b92c090a696e812109653ec13d",
+    "robots.txt": "d87e0684c997e25874ffa63c4c2e39e5bc0658ab616341ea2db0c63fd7bf276f",
+    "52be54c1a7312da2dc42a5e2e4c7c756.txt": "cf2517a2e6269936ac6060c63ae97d3afed90630a39375bfad8bd9c3b1f6dcf2"
+  },
+  "revision": "8258b64d4c59b02d61cd5785861dfcc9426ca15e197c346025da6c95a8bb2315"
+}
